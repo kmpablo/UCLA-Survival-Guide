@@ -21,12 +21,6 @@ a.hover {
   background-color: #3C99DC;
 }
 
-#rotate {
-    transform: rotate(-10deg);
-    font-size: 70px;
-    font-family: 'Lobster';
-}
-
 #rectangle1{
     background: #2565AE;
     width: 100%;
