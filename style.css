@@ -3,6 +3,24 @@ h1 {
     text-align: center;
 }
 
+a {
+  color: #0F5298;
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: #66D3FA;
+  padding: 14px 25px;
+  display: inline-block;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: -5px;
+  margin-left: -5px;
+  border-color: #0F5298;
+}
+
+a.hover {
+  background-color: #3C99DC;
+}
+
 #rotate {
     transform: rotate(-10deg);
     font-size: 80px;
