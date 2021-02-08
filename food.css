@@ -1,0 +1,197 @@
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: gray;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #3C99DC;
+  color: #EAEC83;
+  font-size: 25px;
+  font-family: Open Sans;
+  font-style: italic;
+}
+
+body {
+  background-color: #D5F3FE;
+  background-size: 380px;
+}
+  
+
+#feastAtRieber {
+  width: 260px;
+  height: 220px;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #3C99DC;
+  background-image: url("https://www.campuscircle.com/News/images/042138.jpg");
+  background-size: 380px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0pt 10pt 10pt 50pt;
+}
+
+#feastAtRieber:hover {
+  background-image: none;
+  background-color: #DCDCDC;
+  cursor: pointer;
+  border-color: #EAEC83;
+}
+
+/* NYC */
+#bruinPlate {
+  width: 260px;
+  height: 220px;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #3C99DC;
+  background-image: url("https://eatwell.healthy.ucla.edu/wp-content/uploads/sites/2/2018/10/BPlate-1-685x1030.jpg");
+  background-size: 380px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0pt 10pt 10pt 50pt;
+}
+
+#bruinPlate:hover {
+  background-image: none;
+  background-color: #DCDCDC;
+  cursor: pointer;
+  border-color: #EAEC83;
+}
+
+#covel {
+  width: 260px;
+  height: 220px;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #3C99DC;
+  background-image: url("https://wp.dailybruin.com/images/2020/01/web.ns_.covel_.TS_.jpg");
+  background-size: 380px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 20pt 10pt 10pt 50pt;
+}
+
+#covel:hover {
+  background-image: none;
+  background-color: #DCDCDC;
+  cursor: pointer;
+  border-color: #EAEC83;
+}
+
+#DeNeve {
+  width: 260px;
+  height: 220px;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #3C99DC;
+  background-image: url("https://s3.amazonaws.com/secretsaucefiles/photos/images/000/136/727/large/IMG_2679.JPG-1.jpeg?1487832286");
+  background-size: 380px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 20pt 10pt 10pt 50pt;
+}
+
+#DeNeve:hover {
+  background-image: none;
+  background-color: #DCDCDC;
+  cursor: pointer;
+  border-color: #EAEC83;
+}
+
+#BruinCafe {
+  width: 260px;
+  height: 220px;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #3C99DC;
+  background-image: url("https://uclaadmissions.files.wordpress.com/2011/08/429042882_7diry-xl.jpg?w=1000");
+  background-size: 380px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 20pt 10pt 10pt 50pt;
+}
+
+#BruinCafe:hover {
+  background-image: none;
+  background-color: #DCDCDC;
+  cursor: pointer;
+  border-color: #EAEC83;
+}
+
+#TheStudy {
+  width: 260px;
+  height: 220px;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #3C99DC;
+  background-image: url("https://wp.dailybruin.com/wp-content/grand-media/image/2_2.jpg");
+  background-size: 380px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 20pt 10pt 10pt 50pt;
+}
+
+#TheStudy:hover {
+  background-image: none;
+  background-color: #DCDCDC;
+  cursor: pointer;
+  border-color: #EAEC83;
+}
+
+#Cafe1919 {
+  width: 260px;
+  height: 220px;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #3C99DC;
+  background-image: url("https://www.collegemagazine.com/wp-content/uploads/2017/05/CM_1919_1.jpg");
+  background-size: 380px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 20pt 10pt 10pt 50pt;
+}
+
+#Cafe1919:hover {
+  background-image: none;
+  background-color: #DCDCDC;
+  cursor: pointer;
+  border-color: #EAEC83;
+}
+
+#Rendez {
+  width: 260px;
+  height: 220px;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #3C99DC;
+  background-image: url("https://wp.dailybruin.com/images/2016/01/web.news_.rendezovous.OE_-470x360.jpg");
+  background-size: 380px;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 20pt 10pt 10pt 50pt;
+}
+
+#Rendez:hover {
+  background-image: none;
+  background-color: #DCDCDC;
+  cursor: pointer;
+  border-color: #EAEC83;
+}
+
